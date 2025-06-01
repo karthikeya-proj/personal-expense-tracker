@@ -57,7 +57,7 @@ A sleek and responsive web application to manage your personal finances effectiv
 
 ## 🖼️ Screenshots
 
-
+*(Screenshots would go here)*
 
 ---
 
@@ -70,50 +70,49 @@ A sleek and responsive web application to manage your personal finances effectiv
 ### Installation
 
 1. **Clone the repository:**
-
    ```bash
    git clone https://github.com/karthikeya-proj/personal-expense-tracker.git
-2. **All Commands Used (Start to Deployment)**
-   1. Initialize the Project with Vite + React + TypeScript
-      npm create vite@latest project-name -- --template react-ts
-   2.Navigate to Project Folder
-      cd project
-   3. Install Dependencies
-      npm install
-   4. Install and Configure Tailwind CSS
-      npm install -D tailwindcss postcss autoprefixer
-      npx tailwindcss init -p
-      Edit tailwind.config.js to add: content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"]
-      Edit src/index.css to include:
-       @tailwind base;
-      @tailwind components;
-      @tailwind utilities;
-   5. Optional Tools Installed
-      ESLint (seen in eslint.config.js)
-      npm install -D eslint
-      ->TypeScript settings were auto-handled by Vite's React-TS template
-   6. Run the Development Server
-      npm run dev
-   7. Build for Production
-      npm run build
-   8. Deploy to Netlify
-      npm install netlify-cli -g
-      netlify deploy
-   9. Version Control via Git & GitHub
-       git init
-      git remote add origin https://github.com/karthikeya-proj/personal-expense-tracker
-      git add .
-      git commit -m "Initial commit"
-      git push -u origin main
+All Commands Used (Start to Deployment)
+📦 1. Initialize the Project with Vite + React + TypeScript
+npm create vite@latest project-name -- --template react-ts
+Then you renamed the folder to project manually.
 
-**Total Summary of Tools Used**
-Vite (build tool)
-React + TypeScript
-Tailwind CSS
-ESLint
-Git & GitHub
-Netlify for deployment
+📁 2. Navigate to Project Folder
+cd project
 
-       
+📦 3. Install Dependencies
+npm install
+🎨 4. Install and Configure Tailwind CSS
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+Edit tailwind.config.js to add:
+js.content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"]
+Edit src/index.css to include:
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
+🧹 5. Optional Tools Installed
+ESLint (seen in eslint.config.js)
+npm install -D eslint
+TypeScript settings were auto-handled by Vite's React-TS template
 
+🧪 6. Run the Development Server
+npm run dev
+This runs the app locally (usually at http://localhost:5173).
+
+🚀 7. Build for Production
+npm run build
+
+🌐 8. Deploy to Netlify
+Either:
+npm install netlify-cli -g
+netlify deploy
+Or you uploaded the dist/ folder via Netlify web UI.
+
+🔁 9. Version Control via Git & GitHub
+git init
+git remote add origin https://github.com/karthikeya-proj/personal-expense-tracker
+git add .
+git commit -m "Initial commit"
+git push -u origin main
