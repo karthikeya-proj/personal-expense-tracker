@@ -72,10 +72,9 @@ A sleek and responsive web application to manage your personal finances effectiv
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/karthikeya-proj/personal-expense-tracker.git
-All Commands Used (Start to Deployment)
+## All Commands Used (Start to Deployment)
 📦 1. Initialize the Project with Vite + React + TypeScript
 npm create vite@latest project-name -- --template react-ts
-Then you renamed the folder to project manually.
 
 📁 2. Navigate to Project Folder
 cd project
