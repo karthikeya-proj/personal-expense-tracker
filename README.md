@@ -1,12 +1,14 @@
+## 👥 Authors 
+Name: Pidatala Naga Karthikeya 
 
-# 💰Personal Expense Tracker
-A sleek and responsive web application to manage your personal finances effectively. Track your income and expenses, visualize spending patterns, and gain insights into your financial habits.
+email-Gmail-Google : eyakarthik872@gmai.com
 
 ##
 
 
 
-
+## 💰Personal Expense Tracker
+A sleek and responsive web application to manage your personal finances effectively. Track your income and expenses, visualize spending patterns, and gain insights into your financial habits.
 ## ☰ Table of Contents
 * Authors
 * Features 
@@ -16,12 +18,6 @@ A sleek and responsive web application to manage your personal finances effectiv
 * Tools and Libraries
 * Commands
  ##
-## 👥 Authors 
-Name: Pidatala Naga Karthikeya 
-
-email-Gmail-Google : eyakarthik872@gmai.com
-
-##
 ## ⚡Features
 - 📈 **Dashboard**: Overview of total income, expenses, balance, Visualization, Recent Transactions.
 - ➕ **Add Transactions**: Log income and expense entries with descriptions.
