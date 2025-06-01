@@ -2,7 +2,7 @@
 
 A sleek and responsive web application to manage your personal finances effectively. Track your income and expenses, visualize spending patterns, and gain insights into your financial habits.
 
-🔗 **Live Demo**: [stirring-bubblegum-5552f5.netlify.app](https://stirring-bubblegum-5552f5.netlify.app/)
+🔗 **Check project Live Demo Here**: [stirring-bubblegum-5552f5.netlify.app](https://stirring-bubblegum-5552f5.netlify.app/)
 
 ---
 
@@ -55,12 +55,6 @@ A sleek and responsive web application to manage your personal finances effectiv
 
 ---
 
-## 🖼️ Screenshots
-
-*(Screenshots would go here)*
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -73,16 +67,16 @@ A sleek and responsive web application to manage your personal finances effectiv
    ```bash
    git clone https://github.com/karthikeya-proj/personal-expense-tracker.git
 ### All Commands Used (Start to Deployment)
--📦 1. Initialize the Project with Vite + React + TypeScript
+📦 1. Initialize the Project with Vite + React + TypeScript
 npm create vite@latest project-name -- --template react-ts
 
--📁 2. Navigate to Project Folder
+📁 2. Navigate to Project Folder
 cd project
 
--📦 3. Install Dependencies
+📦 3. Install Dependencies
 npm install
 
--🎨 4. Install and Configure Tailwind CSS
+🎨 4. Install and Configure Tailwind CSS
 
 npm install -D tailwindcss postcss autoprefixer
 
@@ -98,23 +92,23 @@ Edit src/index.css to include:
 
 @tailwind utilities;
 
--🧹 5. Optional Tools Installed
+🧹 5. Optional Tools Installed
 
 ESLint (seen in eslint.config.js)
 npm install -D eslint
 
 TypeScript settings were auto-handled by Vite's React-TS template
 
--🧪 6. Run the Development Server
+🧪 6. Run the Development Server
 
 npm run dev
 This runs the app locally (usually at http://localhost:5173).
 
--🚀 7. Build for Production
+🚀 7. Build for Production
 
 npm run build
 
--🌐 8. Deploy to Netlify
+🌐 8. Deploy to Netlify
 
 Either:
 npm install netlify-cli -g
@@ -125,11 +119,7 @@ Or you uploaded the dist/ folder via Netlify web UI.
 -🔁 9. Version Control via Git & GitHub
 
 git init
-
 git remote add origin https://github.com/karthikeya-proj/personal-expense-tracker
-
 git add .
-
 git commit -m "Initial commit"
-
 git push -u origin main
