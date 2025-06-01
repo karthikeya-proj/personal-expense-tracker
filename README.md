@@ -1,4 +1,4 @@
-# 💰 Personal Expense Tracker
+]# 💰 Personal Expense Tracker
 
 A sleek and responsive web application to manage your personal finances effectively. Track your income and expenses, visualize spending patterns, and gain insights into your financial habits.
 
