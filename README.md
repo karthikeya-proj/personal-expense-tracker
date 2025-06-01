@@ -99,26 +99,37 @@ Edit src/index.css to include:
 @tailwind utilities;
 
 -🧹 5. Optional Tools Installed
+
 ESLint (seen in eslint.config.js)
 npm install -D eslint
+
 TypeScript settings were auto-handled by Vite's React-TS template
 
 -🧪 6. Run the Development Server
+
 npm run dev
 This runs the app locally (usually at http://localhost:5173).
 
 -🚀 7. Build for Production
+
 npm run build
 
 -🌐 8. Deploy to Netlify
+
 Either:
 npm install netlify-cli -g
+
 netlify deploy
 Or you uploaded the dist/ folder via Netlify web UI.
 
 -🔁 9. Version Control via Git & GitHub
+
 git init
+
 git remote add origin https://github.com/karthikeya-proj/personal-expense-tracker
+
 git add .
+
 git commit -m "Initial commit"
+
 git push -u origin main
