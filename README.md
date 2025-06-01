@@ -81,14 +81,21 @@ cd project
 
 -📦 3. Install Dependencies
 npm install
+
 -🎨 4. Install and Configure Tailwind CSS
+
 npm install -D tailwindcss postcss autoprefixer
+
 npx tailwindcss init -p
+
 Edit tailwind.config.js to add:
 js.content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"]
+
 Edit src/index.css to include:
 @tailwind base;
+
 @tailwind components;
+
 @tailwind utilities;
 
 -🧹 5. Optional Tools Installed
