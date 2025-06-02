@@ -1,7 +1,11 @@
 ## 👥 Authors 
 Name: Pidatala Naga Karthikeya 
 
-email-Gmail-Google : eyakarthik872@gmai.com
+email-Gmail-Google : eyakarthik872@gmail.com
+
+Name: Gorantla Jahnavi
+
+email-Gmail-Google : Jahnavi0405@gmail.com
 
 ##
 
